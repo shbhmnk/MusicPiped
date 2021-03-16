@@ -1,23 +1,4 @@
-<p align="center"><a href="https://deep-gaurav,github.io"><img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150"></a></p> 
 <h2 align="center"><b>MusicPiped</b></h2>
-<h4 align="center">A libre lightweight streaming MusicPlayer for Android.</h4>
-<p align="center"><a href="https://f-droid.org/en/packages/deep.ryd.rydplayer/"><img height=70 src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png"></a><a href='https://play.google.com/store/apps/details?id=deep.ryd.rydplayer&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height=90 alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a></p> 
-
-<p align="center">
-<a href="https://github.com/deep-gaurav/MusicPiped" alt="GitHub release"><img src="https://img.shields.io/github/release/deep-gaurav/MusicPiped.svg" ></a>
-<a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
-</p>
-<hr>
-
-## Screenshots
-
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_01.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_01.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_02.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_02.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_03.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_03.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_04.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_04.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_05.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_05.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_06.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_06.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_07.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_07.png)
 
 ## Description
 
@@ -46,22 +27,6 @@ Each Music played only downloads/streams the audio from youtube thus saves the l
 * Region trending/popular music tab
 * suggest more...
 
-
-## Donate
-Donation of any kind is appreciated :)
-
-<table>
-  <tr>
-    <td><a href="https://www.buymeacoffee.com/deepgaurav"><img src="https://www.buymeacoffee.com/uploads/slider_images/2018/01/9df5992da93f863513340d67b5dd1539.gif" alt="Buymeacofee" width="80px" ></a></td>
-    <td><a href="https://www.buymeacoffee.com/deepgaurav"><img src="http://api.qrserver.com/v1/create-qr-code/?data=https://buymeacofee.com/deepgaurav&size=256x256" alt="Buy me a cofee" width="100px"></a></td>
-    <td><a href="https://www.buymeacoffee.com/deepgaurav">Donate with buymeacofee</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://paypal.me/deepgaurav"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/social/pplogo384.png" alt="Paypal.me" width="190px"></a></td>
-    <td><a href="https://paypal.me/deepgaurav"><img src="http://api.qrserver.com/v1/create-qr-code/?data=https://paypal.me/deepgaurav&size=256x256" alt="Paypal Me" width="100px"></a></td>
-    <td><a href="https://paypal.me/deepgaurav">Paypal Me!</a></td>
-  </tr>
-</table>
 
 ## Privacy Policy
 
